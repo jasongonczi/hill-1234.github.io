@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="mystyle.css">
-</head>
-<body>
+body {
+  background-color: lightblue;
+}
 
-<h1>CSS</h1>
-<p>I found the use of CSS more difficult than HTML coding. I understand the use is for styleizing the webpage but the different styles are not very necessary in my mind. I can see this being useful for making a personal website in the future such as a blog or marketplace. In general this would be used in the workplace to add a personal touch to a created website and have your design choices shine through the code. </p>
-
-</body>
-</html>
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
